@@ -1,3 +1,3 @@
 # the_simon_game
 
-<img src="./images/Screenshot 2023-08-05 003547.png">
+![preview img](./images/Screenshot%202023-08-05%20003547.png)
